@@ -36,6 +36,6 @@
 
 <a href="http://www.github.com/theabhinavarya"><img src="https://github-readme-stats.vercel.app/api?username=theabhinavarya&show_icons=true&hide=&count_private=true&title_color=06ba15&text_color=ffffff&icon_color=06ba15&bg_color=1c1917&hide_border=true&show_icons=true" alt="theabhinavarya's GitHub stats" /></a>
 
-<a href="http://www.github.com/theabhinavarya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=theabhinavarya&stroke=ffffff&background=1c1917&ring=f50521&fire=f50521&currStreakNum=ffffff&currStreakLabel=f50521&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/theabhinavarya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=theabhinavarya&stroke=ffffff&background=1c1917&ring=06ba15&fire=06ba15&currStreakNum=ffffff&currStreakLabel=06ba15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/theabhinavarya"><img src="https://activity-graph.herokuapp.com/graph?username=theabhinavarya&bg_color=1c1917&color=ffffff&line=f50521&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/theabhinavarya"><img src="https://activity-graph.herokuapp.com/graph?username=theabhinavarya&bg_color=1c1917&color=ffffff&line=06ba15&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
