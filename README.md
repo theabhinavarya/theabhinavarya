@@ -1,4 +1,4 @@
-![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)
+<img width="100%" src="https://i.ibb.co/xCGSFqG/20221030-203230.gif" >
 
 <h1 align="center">Hi 👋, I'm Abhinav Arya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
