@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theabhinavarya&label=Profile%20views&color=0e75b6&style=flat" alt="theabhinavarya" /> </p>
 
-<img align="right" width="500" src="https://assets.nationbuilder.com/paulkrekorian/pages/2425/attachments/original/1509467507/halloween.jpg?1509467507">
+<img align="right" width="500" src="https://i.ibb.co/QdL28PN/Pics-Art-10-31-09-47-47.png">
 
 - 🌱 I’m currently learning **ReactJS**
 
