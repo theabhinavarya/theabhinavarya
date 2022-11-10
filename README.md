@@ -38,14 +38,14 @@
 
 
 
-<a href="https://github.com/theabhinavarya" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabhinavarya&langs_count=10&title_color=b25d08&text_color=ffffff&icon_color=b25d08&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/theabhinavarya" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabhinavarya&langs_count=10&title_color=12eb07&text_color=ffffff&icon_color=12eb07&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
 <h3 align="left">My GitHub Stats:</h3>
 
-<a href="http://www.github.com/theabhinavarya"><img src="https://github-readme-stats.vercel.app/api?username=theabhinavarya&show_icons=true&hide=&count_private=true&title_color=b25d08&text_color=ffffff&icon_color=b25d08&bg_color=1c1917&hide_border=true&show_icons=true" alt="theabhinavarya's GitHub stats" /></a>
+<a href="http://www.github.com/theabhinavarya"><img src="https://github-readme-stats.vercel.app/api?username=theabhinavarya&show_icons=true&hide=&count_private=true&title_color=12eb07&text_color=ffffff&icon_color=12eb07&bg_color=1c1917&hide_border=true&show_icons=true" alt="theabhinavarya's GitHub stats" /></a>
 
-<a href="http://www.github.com/theabhinavarya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=theabhinavarya&stroke=ffffff&background=1c1917&ring=b25d08&fire=b25d08&currStreakNum=ffffff&currStreakLabel=b25d08&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/theabhinavarya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=theabhinavarya&stroke=ffffff&background=1c1917&ring=12eb07&fire=12eb07&currStreakNum=ffffff&currStreakLabel=12eb07&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/theabhinavarya"><img src="https://activity-graph.herokuapp.com/graph?username=theabhinavarya&bg_color=1c1917&color=ffffff&line=b25d08&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/theabhinavarya"><img src="https://activity-graph.herokuapp.com/graph?username=theabhinavarya&bg_color=1c1917&color=ffffff&line=12eb07&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph"/></a>
