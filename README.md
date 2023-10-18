@@ -1,12 +1,13 @@
 <img align="center" alt="code" width="100%" src="https://user-images.githubusercontent.com/114874139/198889706-1b84e223-a0ac-49c0-8e3c-5529214d9133.gif">
 
 
-
+<background-image="">
 <h1 align="center">Hi 👋, I'm Abhinav Arya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align = "center">📛My Badges</h3>
 <img align="center" alt="Badges" src="https://holopin.io/api/user/board?user=theabhinavarya">
+<img align="right" alt="Coding" width="300" src="https://i.ibb.co/YdKHFwm/trick-treat6-img.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theabhinavarya&label=Profile%20views&color=0e75b6&style=flat" alt="theabhinavarya" /> </p>
 
