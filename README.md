@@ -1,7 +1,6 @@
 <img align="center" alt="code" width="100%" src="https://user-images.githubusercontent.com/114874139/198889706-1b84e223-a0ac-49c0-8e3c-5529214d9133.gif">
 
 
-<background-image="">
 <h1 align="center">Hi 👋, I'm Abhinav Arya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
